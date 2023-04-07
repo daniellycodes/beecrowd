@@ -1,2 +1,2 @@
 # beecrowd
-Resolução dos exercícios do beecrowd na linguagem Python.
+resolução dos exercícios do beecrowd na linguagem Python.
